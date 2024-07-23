@@ -1,3 +1,4 @@
 ultralytics
 ipykernel
 onnx
+opencv-python

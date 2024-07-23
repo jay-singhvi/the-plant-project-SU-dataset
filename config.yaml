@@ -1,7 +1,14 @@
 # Dataset configuration
 # absolute path
+
+# Google Colab path
 # path: /content/drive/MyDrive/computer-vision-plant-detection/data
-path: "G:/My Drive/computer-vision-plant-detection/data"
+
+# Local system execution path
+# path: "G:/My Drive/computer-vision-plant-detection/data"
+
+# AWS Sagemaker Path
+path: "/home/sagemaker-user/the-plant-project-SU-dataset/data"
 train: images/train
 val: images/val
 
