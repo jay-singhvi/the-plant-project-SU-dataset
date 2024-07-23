@@ -1,0 +1,13 @@
+# Dataset configuration
+# absolute path
+# path: /content/drive/MyDrive/computer-vision-plant-detection/data
+path: "G:/My Drive/computer-vision-plant-detection/data"
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: cherry
+
+# Number of classes
+nc: 1

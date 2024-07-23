@@ -1,0 +1,11 @@
+data/obj_train_data/DJI_20240622122230_0010_D-Subset-1.JPG
+data/obj_train_data/DJI_20240622122230_0010_D-Subset-2.JPG
+data/obj_train_data/DJI_20240622122230_0010_D-Subset-3.JPG
+data/obj_train_data/DJI_20240623152519_0044_D.JPG
+data/obj_train_data/DJI_20240623152521_0045_D.JPG
+data/obj_train_data/DJI_20240623152523_0046_D.JPG
+data/obj_train_data/DJI_20240623152525_0047_D.JPG
+data/obj_train_data/DJI_20240623152527_0048_D.JPG
+data/obj_train_data/DJI_20240623152529_0049_D.JPG
+data/obj_train_data/DJI_20240623152531_0050_D.JPG
+data/obj_train_data/DJI_20240623152533_0051_D.JPG
