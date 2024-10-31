@@ -1,0 +1,12 @@
+# names:
+#   0: Apple
+#   1: apple
+# path: .
+# train: train.txt
+
+path: ./data  # Path to the data folder
+train: ../train.txt  # Path to train.txt file relative to the 'path'
+val: ../train.txt  # For now, using the same set for validation
+
+nc: 1  # Number of classes
+names: ['apple']  # Class names (use lowercase)
